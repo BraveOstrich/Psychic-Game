@@ -1,0 +1,16 @@
+.container{
+    width: 450px;
+    height: 200px;
+    border: solid 3px gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.h1{
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+.h3{
+    font-weight: 500;
+}
